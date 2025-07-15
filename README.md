@@ -1,7 +1,7 @@
-# YasirElzobair-
+
 # 👋 Hi, I'm Yasir Elzubair
 
-A cybersecurity learner and IT professional with 11+ years in networking, now transitioning into web security and freelance cyber services. I'm focused on building secure applications, identifying vulnerabilities, and helping businesses stay protected.
+A cybersecurity and IT professional with 11+ years in networking, now transitioning into web security and freelance cyber services. I'm focused on building secure applications, identifying vulnerabilities, and helping businesses stay protected.
 
 ---
 
@@ -35,7 +35,7 @@ A cybersecurity learner and IT professional with 11+ years in networking, now tr
 - ✅ CompTIA Security+ (SY0-601)  
 - ✅ Fortinet NSE 1–4  
 - ✅ F5 Certified Administrator – BIG-IP  
-- 🔄 CompTIA CySA+ 
+- 🔄 CompTIA CySA+, CISM (Studied)
 - 🔄 Offensive Security OSCP (in progress)  
 
 ---
